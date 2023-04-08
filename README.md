@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @SadPotato666
+- 👋 Hi, I’m @SadPotato666, you can call me AC
 - 👀 I’m interested in C++ language and building games.
 - 🌱 I’m currently learning C++ language 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on making unity games~
 - 📫 How to reach me... (aliciachong417@gmail.com)
-I'm a total beginner in programming, please if you like teaching or wanna improve your code via teaching someone, I'm THE STUDENT u need!
+
 
 <!---
 SadPotato666/SadPotato666 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
